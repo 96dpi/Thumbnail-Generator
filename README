@@ -1,0 +1,3 @@
+Das Script kann an einem beliebigen Ort auf dem Rechner gespeichert werden. Mit dem Befehl Datei > Skripten > Durchsuchen wird das Script gestartet. In dem folgenden Dialog können einige Einstellunge vorgenommen werden. Präfix wird dem Dateinamen des Thumbnails vorangestellt, Suffix wird dem Dateinamen angehängt. In dem gewählten Quellordner werden alle JPEG-Dateien ausgewählt, verarbeitet und im Zielordner als JPEG gespeichert.
+
+Achtung: Die Verwendung erfolgt auf eigene Gefahr. Wenn Präfix und Suffix leer sind und der Zielordner dem Quellordner entspricht, werden die Dateien überschrieben. Das Script ist mit CS5 auf dem Mac getestet. Über Feedback von Nutzern anderer Konfigurationen freue ich mich.

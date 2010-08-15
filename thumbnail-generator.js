@@ -3,6 +3,7 @@
  * Lizenz: Creative Commons BY-NC 2.0
  * Author: Andreas Levers, www.96dpi.de
  * Getestet unter Mac OS X 10.6.4 mit Photoshop CS5
+ * http://github.com/96dpi/Thumbnail-Generator
  **/
 
 var settingDlg = new Window ('dialog', 'Thumbnail Generator', [200, 200, 495, 375]);
